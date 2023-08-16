@@ -1,5 +1,6 @@
-# Project
+# Machine Learning project
 This is all my project and python coding for machine learning
+
 📊 Data Science Enthusiast | 🤖 Machine Learning & AI Advocate
 
 Greetings! I'm Jakkaton Kanata, a Mechanical Engineering graduate with a passion for the transformative world of Data Science, Machine Learning, and AI.
