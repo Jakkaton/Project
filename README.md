@@ -14,4 +14,4 @@ My commitment to continuous improvement drives me. As I strive to master the int
 Eager to connect with fellow enthusiasts, professionals, and pioneers in the field. If you share the same fervor for Data Science, Machine Learning, and AI, let's connect and exchange ideas. Feel free to reach out via email at Jakkatonk42@gmail.com or connect with me on LinkedIn.
 
 
-link for sql project : https://replit.com/@jakkatonk42/SQL-homeworkbatch09bic#main.sql
+link for sql project : https://replit.com/@jakkatonk42/SQL-Project#main.sql
