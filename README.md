@@ -12,3 +12,6 @@ Post-graduation, I embarked on an exciting learning journey. I've been diving in
 My commitment to continuous improvement drives me. As I strive to master the intricacies of algorithms, the art of predictive modeling, and the ethics of AI, I'm motivated by the potential to create meaningful impact.
 
 Eager to connect with fellow enthusiasts, professionals, and pioneers in the field. If you share the same fervor for Data Science, Machine Learning, and AI, let's connect and exchange ideas. Feel free to reach out via email at Jakkatonk42@gmail.com or connect with me on LinkedIn.
+
+
+link for sql project : https://replit.com/@jakkatonk42/SQL-homeworkbatch09bic#main.sql
